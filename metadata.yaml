@@ -1,0 +1,28 @@
+_repo: --_24232
+_version: 0.1.0
+alternative_title:
+- Xiao jing
+- Shiau Jing
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24232'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Ethics -- China'
+title: 孝經
+url: http://www.gutenberg.org/ebooks/24232
